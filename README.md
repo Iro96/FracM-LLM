@@ -1,1 +1,1 @@
-# FracM-LLM
+# FracM-SLM
